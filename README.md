@@ -11,5 +11,12 @@ approach to problem-solving.
 I have recently completed an 8-week intensive Data Skills Bootcamp with Leep Talent to further 
 strengthen my technical foundations and industry readiness. Alongside formal training, I actively 
 consolidate my learning through practical projects, which are showcased on my LinkedIn and GitHub 
-as part of my growing data portfolio. 
+as part of my growing data portfolio.
 
+You can find my CV here: [Click Here](https://github.com/fintism24/Findlay-Norton-Portfolio/blob/main/Findlay%2C%20Anstruther-Norton%20New%20CV%202026.pdf)
+
+# Projects
+
+**Python**
+
+[Assesing the effects of Cyber Attacks on companies financially and technicially](https://github.com/fintism24/Cyber-Attacks-Project)
