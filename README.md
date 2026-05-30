@@ -20,3 +20,7 @@ You can find my CV here: [Click Here](https://github.com/fintism24/Findlay-Norto
 **Python**
 
 [Assesing the effects of Cyber Attacks on companies financially and technicially](https://github.com/fintism24/Cyber-Attacks-Project)
+
+**SQL**
+
+[SQL Exploration - Sales Analysis](https://github.com/fintism24/SQL-Exploration---Sales-Analysis)
