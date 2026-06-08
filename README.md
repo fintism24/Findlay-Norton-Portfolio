@@ -4,10 +4,10 @@
 - [About](#about)
 - [Projects](#projects)
   - [Python](#python)
-  * [[Assesing the effects of Cyber Attacks on companies financially and technicially](https://github.com/fintism24/Cyber-Attacks-Project)]
+    - [Assesing the effects of Cyber Attacks on companies financially and technicially](https://github.com/fintism24/Cyber-Attacks-Project)
 
   - [SQL](#SQL)
-  * [[SQL Exploration - Sales Analysis](https://github.com/fintism24/SQL-Exploration---Sales-Analysis)]
+    - [SQL Exploration - Sales Analysis](https://github.com/fintism24/SQL-Exploration---Sales-Analysis)
     
   - [Tableau](#tableau)
   - [Power BI](#power-bi)
