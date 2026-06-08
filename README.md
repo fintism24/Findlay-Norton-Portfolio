@@ -1,11 +1,9 @@
 # Findlay-Norton-Portfolio
 
-- [Findlay-Norton-Portfolio](#findlay-norton-portfolio)
 - [About](#about)
 - [Projects](#projects)
-  * [[Assesing the effects of Cyber Attacks on companies financially and technicially](https://github.com/fintism24/Cyber-Attacks-Project)](#-assesing-the-effects-of-cyber-attacks-on-companies-financially-and-technicially--https---githubcom-fintism24-cyber-attacks-project-)
-  * [[SQL Exploration - Sales Analysis](https://github.com/fintism24/SQL-Exploration---Sales-Analysis)](#-sql-exploration---sales-analysis--https---githubcom-fintism24-sql-exploration---sales-analysis-)
-  * [Excel](#excel)
+  * [[Assesing the effects of Cyber Attacks on companies financially and technicially](https://github.com/fintism24/Cyber-Attacks-Project)]
+  * [[SQL Exploration - Sales Analysis](https://github.com/fintism24/SQL-Exploration---Sales-Analysis)]
   * [Tableau](#tableau)
   * [Power BI](#power-bi)
 - [Education](#education)
