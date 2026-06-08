@@ -1,13 +1,22 @@
 # Findlay-Norton-Portfolio
 
 - [About](#about)
+  
 - [Projects](#projects)
+- [Python](#python)
   * [[Assesing the effects of Cyber Attacks on companies financially and technicially](https://github.com/fintism24/Cyber-Attacks-Project)]
+
+- [SQL](#SQL)
   * [[SQL Exploration - Sales Analysis](https://github.com/fintism24/SQL-Exploration---Sales-Analysis)]
-  * [Tableau](#tableau)
-  * [Power BI](#power-bi)
-- [Education](#education)
+    
+- [Tableau](#tableau)
+
+- [Power BI](#power-bi)
+ 
+- [Education](#education
+
 - [Certificates](#certificates)
+
 - [Contact](#contact)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
