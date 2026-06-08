@@ -13,7 +13,7 @@
 
 - [Power BI](#power-bi)
  
-- [Education](#education
+- [Education](#education)
 
 - [Certificates](#certificates)
 
