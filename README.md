@@ -4,12 +4,13 @@
 - [About](#about)
 - [Projects](#projects)
   - [Python](#python)
-    - [Assesing the effects of Cyber Attacks on companies financially and technicially](https://github.com/fintism24/Cyber-Attacks-Project)
+    - [Assesing the effects of Cyber Attacks on companies financially and technicially]
 
   - [SQL](#SQL)
-    - [SQL Exploration - Sales Analysis](https://github.com/fintism24/SQL-Exploration---Sales-Analysis)
+    - [SQL Exploration - Sales Analysis]
     
   - [Tableau](#tableau)
+    - [AirBnB Dashboard created using Tableau]
   - [Power BI](#power-bi)
  
 
@@ -44,6 +45,10 @@ You can find my CV here: [Click Here](https://github.com/fintism24/Findlay-Norto
 ## SQL
 
 [SQL Exploration - Sales Analysis](https://github.com/fintism24/SQL-Exploration---Sales-Analysis)
+
+## Tableau
+
+[AirBnB Dashboard created using Tableau](https://github.com/fintism24/AirBnB-Visualisation---Tableau)
 
 ## Education
 
