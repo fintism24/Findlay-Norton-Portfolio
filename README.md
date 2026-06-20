@@ -4,13 +4,13 @@
 - [About](#about)
 - [Projects](#projects)
   - [Python](#python)
-    - [Assesing the effects of Cyber Attacks on companies financially and technicially]
+    - [Assesing the effects of Cyber Attacks on companies financially and technicially](https://github.com/fintism24/Findlay-Norton-Portfolio/blob/main/README.md#Python)
 
   - [SQL](#SQL)
-    - [SQL Exploration - Sales Analysis]
+    - [SQL Exploration - Sales Analysis](https://github.com/fintism24/Findlay-Norton-Portfolio/blob/main/README.md#SQL)
     
   - [Tableau](#tableau)
-    - [AirBnB Dashboard created using Tableau]
+    - [AirBnB Dashboard created using Tableau](https://github.com/fintism24/Findlay-Norton-Portfolio/blob/main/README.md#Tableau)
   - [Power BI](#power-bi)
  
 
