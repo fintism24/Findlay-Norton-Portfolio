@@ -49,8 +49,8 @@ You can find my CV here: [Click Here](https://github.com/fintism24/Findlay-Norto
 
 ## Tableau
 
-[AirBnB Dashboard created using Tableau](https://github.com/fintism24/AirBnB-Visualisation---Tableau)
-[AI Replacement Risk Dashboard created in Tableau](https://github.com/fintism24/AI-Replacement-Risk-----Tableau)
+- [AirBnB Dashboard created using Tableau](https://github.com/fintism24/AirBnB-Visualisation---Tableau)
+- [AI Replacement Risk Dashboard created in Tableau](https://github.com/fintism24/AI-Replacement-Risk-----Tableau)
 
 ## Education
 
