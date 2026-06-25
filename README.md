@@ -41,11 +41,11 @@ You can find my CV here: [Click Here](https://github.com/fintism24/Findlay-Norto
 
 ## Python
 
-[Assesing the effects of Cyber Attacks on companies financially and technicially](https://github.com/fintism24/Cyber-Attacks-Project)
+- [Assesing the effects of Cyber Attacks on companies financially and technicially](https://github.com/fintism24/Cyber-Attacks-Project)
 
 ## SQL
 
-[SQL Exploration - Sales Analysis](https://github.com/fintism24/SQL-Exploration---Sales-Analysis)
+- [SQL Exploration - Sales Analysis](https://github.com/fintism24/SQL-Exploration---Sales-Analysis)
 
 ## Tableau
 
@@ -54,13 +54,13 @@ You can find my CV here: [Click Here](https://github.com/fintism24/Findlay-Norto
 
 ## Education
 
-University of East Anglia - Computer Systems Engineering - Graduated with honors - September 2019 to July 2023
+- University of East Anglia - Computer Systems Engineering - Graduated with honors - September 2019 to July 2023
 
-City College Norwich - Access course to Engineering - Pass - September 2018 to July 2019
+- City College Norwich - Access course to Engineering - Pass - September 2018 to July 2019
 
 ## Certificates
 
-Skills for Life Data Technicain bootcamp - Acheived on 10/03/2026
+- Skills for Life Data Technicain bootcamp - Acheived on 10/03/2026
 
 ## Contact
 
