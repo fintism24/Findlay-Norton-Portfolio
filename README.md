@@ -8,6 +8,7 @@
 
   - [SQL](#SQL)
     - [SQL Exploration - Sales Analysis](https://github.com/fintism24/Findlay-Norton-Portfolio/blob/main/README.md#SQL)
+    - [Exploratory Analysis --- SQL](https://github.com/fintism24/Findlay-Norton-Portfolio/blob/main/README.md#SQL)
     
   - [Tableau](#tableau)
     - [AirBnB Dashboard created using Tableau](https://github.com/fintism24/Findlay-Norton-Portfolio/blob/main/README.md#Tableau)
@@ -46,6 +47,7 @@ You can find my CV here: [Click Here](https://github.com/fintism24/Findlay-Norto
 ## SQL
 
 - [SQL Exploration - Sales Analysis](https://github.com/fintism24/SQL-Exploration---Sales-Analysis)
+- [Exploratory Analysis --- SQL](https://github.com/fintism24/Exploratory-Analysis---SQL)
 
 ## Tableau
 
